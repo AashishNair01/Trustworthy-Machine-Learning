@@ -24,8 +24,8 @@ PRIV_PATH = BASE / "priv.pt"
 MODEL_PATH = BASE / "model.pt"
 OUTPUT_CSV = BASE / "submission.csv"
 
-BASE_URL = "http://34.63.153.158"   #DONOT CHANGE
-API_KEY = "4e0cae0fcb684d189a32f5ce1e010c38"
+BASE_URL = <BASE_URL>   #DONOT CHANGE
+API_KEY = #YOUR API KEY
 TASK_ID = "01-mia"  #DONOT CHANGE
 eps=1e-8
 
